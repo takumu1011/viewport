@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.backimg {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  background: url(profile.jpeg) no-repeat top center;
+  background-size: contain;
+}
+.backimg2 {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 30%;
+  background: url(profile.jpeg) no-repeat top center;
+  background-size: contain;
+}
